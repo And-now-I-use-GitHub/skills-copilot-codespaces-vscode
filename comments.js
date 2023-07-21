@@ -7,4 +7,3 @@
      });
     res.end('Hey ninjas');
 });
-server.listen(3000)
